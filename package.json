@@ -62,7 +62,10 @@
   "author": "Petru Bocsanean",
   "license": "MIT",
   "dependencies": {
+    "@material/mwc-dialog": "^0.18.0",
+    "@types/page": "^1.8.0",
+    "lit-element": "^2.0.1",
     "lit-html": "^1.0.0",
-    "lit-element": "^2.0.1"
+    "page": "^1.11.6"
   }
 }
