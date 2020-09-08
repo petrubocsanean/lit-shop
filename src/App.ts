@@ -1,5 +1,5 @@
 import { LitElement, html, css, property } from 'lit-element';
-import { PendingContainer } from './mixins/PendingContainerMixin.js';
+import { PendingContainer } from './mixins/pending-container-mixin.js';
 import { lazyLoad } from './directives/LazyLoad.js';
 import page from 'page';
 import './components/dialog-spinner.js';

@@ -6,7 +6,7 @@ import '../src/App.js';
 describe('LitShop', () => {
   let element: LitShop;
   beforeEach(async () => {
-    element = await fixture(html` <lit-shop></lit-shop> `);
+    element = await fixture(html`<lit-shop></lit-shop> `);
   });
 
   it('passes the a11y audit', async () => {
