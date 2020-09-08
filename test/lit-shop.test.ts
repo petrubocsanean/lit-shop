@@ -1,7 +1,6 @@
 import { html, fixture, expect } from '@open-wc/testing';
 
 import { LitShop } from '../src/App.js';
-import '../src/App.js';
 
 describe('LitShop', () => {
   let element: LitShop;
